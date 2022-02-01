@@ -1,0 +1,18 @@
+{
+    "amazon": {
+        "email": "hello@hello.com",
+        "password": "amazon"
+    },
+    "ebay": {
+        "email": "hello@hello.com",
+        "password": "km#%fR56yoFj"
+    },
+    "twitter": {
+        "email": "hello@hello.com",
+        "password": "jXcJu5z+Y637+Oh"
+    },
+    "facebook": {
+        "email": "hello@hello.com",
+        "password": "5iC%ot)CKuw8k$8"
+    }
+}
